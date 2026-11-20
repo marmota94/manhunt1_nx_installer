@@ -1,0 +1,16 @@
+{
+  "name": "manhunt1_nx",
+  "version": "1.0.0",
+  "nro": {
+    "path": "manhunt.nro",
+    "sha256": "a228764e1d6519938de6ec9b0cbf090005375de79859ce675ede7c880c677944",
+    "bytes": 26436797
+  },
+  "game": {
+    "install_dir": "game",
+    "default_xbe_sha256": "af69e803695e29c3f99b38d6a759fac4c9300c9a540a2c244e4e7a07fb96afde",
+    "asset_manifest": "asset-manifest.sha256",
+    "note": "Game files are not included; build them from the user's own disc image."
+  },
+  "env_default": "manhunt.env"
+}
